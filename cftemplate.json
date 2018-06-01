@@ -3,7 +3,7 @@
     "Description":"A template for running a build",
     "Parameters": {
             "gitHubCloneURL": {
-        "Description": "The clone URL of the GitHub repo",
+        "Description": "https://github.com/neerajgset/focusday1.git",
         "Type": "String"
         },
         "codeBuildImage": {
