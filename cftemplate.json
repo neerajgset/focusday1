@@ -80,7 +80,7 @@
                                         "lambda:*"
                                     ],
                                     "Resource":"arn:aws:lambda::*:function/gov-*"
-                                }
+                                },
                                 {
                                     "Effect": "Deny",
                                     "Action": [
